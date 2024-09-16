@@ -1,0 +1,44 @@
+li{
+    color: red;
+}
+
+.ingredients,
+.steps{
+    color: black;
+    font-size: 24px;
+}
+
+.recipe-heading{
+    text-align: center;
+    background-color: rgb(42, 165, 95);
+    color: rgb(0, 255, 217);
+}
+
+h2,
+h3{
+    font-size: 34px;
+}
+
+
+h3{
+    background-color: aqua;
+
+}
+
+
+p{
+    font-size: 22px;
+}
+
+#main-title{
+    text-align: center;
+    color: black;
+    background-color: antiquewhite;
+    font-size: 40px;
+}
+
+.main-links{
+    text-align: center;
+    font-size: 30px;
+}
+
